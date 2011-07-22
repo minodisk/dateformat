@@ -1,0 +1,11 @@
+{
+  "name": "DateFormat",
+  "author": "Daisuke MINO <daisuke.mino@gmail.com>",
+  "description": "Formatting Date to String and parsing String to Date module for Node.js, RequireJS, and browser.",
+  "version": "0.0.5",
+  "main": "lib/dateformat",
+  "license": "MIT",
+  "scripts": {
+    "test": "nodeunit test/test-dateformat.js"
+  }
+}
