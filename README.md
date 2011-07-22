@@ -2,10 +2,11 @@
 Formatting Date to String and parsing String to Date module for Node.js, RequireJS, and browser.
 
 ## Installation
-    $ npm install DateFormat
+    $ npm install dateformatjs
 
 
 ## Usage
+    var DateFormat = require('dateformatjs').DateFormat;
     var df = new DateFormat("yyyy'-'MM'-'dd' 'HH':'mm':'ss.fff' 'zzzz");
     df.format(new Date());
     df.parse('1981-07-04 15:02:06.050 +09:00');
