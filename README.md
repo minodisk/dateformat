@@ -36,6 +36,7 @@ The following specifiers are defined.
 <tr><td>H</td><td>The hour, using a 24-hour clock from 0 to 23.</td><td>15</td><td></td></tr>
 <tr><td>HH</td><td>The hour, using a 24-hour clock from 00 to 23.</td><td>15</td><td></td></tr>
 <tr><td>K</td><td>Time zone information.</td><td>UTC, Local</td><td></td></tr>
+<tr><td>j</td><td>Julian day of the year.</td><td>025</td><td></td></tr>
 <tr><td>m</td><td>The minute, from 0 through 59.</td><td>2</td><td></td></tr>
 <tr><td>mm</td><td>The minute, from 00 through 59.</td><td>02</td><td></td></tr>
 <tr><td>M</td><td>The month, from 1 through 12.</td><td>7</td><td></td></tr>
