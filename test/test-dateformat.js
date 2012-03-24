@@ -12,7 +12,8 @@
       new DateFormat(DateFormat.RFC822),
       new DateFormat(DateFormat.RFC850),
       new DateFormat(DateFormat.CTIME),
-      new DateFormat(DateFormat.DATE_TIME)
+      new DateFormat(DateFormat.DATE_TIME),
+      new DateFormat("yyyy'_'j")
     ];
     next();
   };
