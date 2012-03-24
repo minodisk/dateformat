@@ -2,7 +2,7 @@
   "name": "dateformatjs",
   "author": "Daisuke MINO <daisuke.mino@gmail.com>",
   "description": "Formatting Date to String and parsing String to Date module for Node.js, RequireJS, and browser.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "lib/dateformat",
   "license": "MIT",
   "scripts": {
