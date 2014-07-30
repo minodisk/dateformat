@@ -1,7 +1,5 @@
 # dateformat.js
 
-**Obsolete project**
-
 Formatting Date to String and parsing String to Date module for Node.js, RequireJS, and browser.
 
 ## Installation
